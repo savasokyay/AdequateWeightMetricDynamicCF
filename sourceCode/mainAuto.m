@@ -5,6 +5,7 @@ function mainAuto(testParams)
 %	@brief 	...
 %           If you edit or use this code, please read and cite the following article.
 %           Experimental Interpretation of Adequate Weight-Metric Combination for Dynamic User-Based Collaborative Filtering,
+%			PeerJ Computer Science
 %	@prerq  testParams parameter must be set manually or using createTestCase.m scirpt.
 %	@input  testParams: ...
 %	@output creates a results *.mat file at the end of test instance.

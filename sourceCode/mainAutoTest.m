@@ -5,6 +5,7 @@ function mainAutoTest
 %	@brief 	This script automates the test procedure for cascaded multiple times.
 %           If you edit or use this code, please read and cite the following article.
 %           Experimental Interpretation of Adequate Weight-Metric Combination for Dynamic User-Based Collaborative Filtering,
+%			PeerJ Computer Science
 %	@prerq  ...
 %	@input  -
 %	@output testResults file on output path

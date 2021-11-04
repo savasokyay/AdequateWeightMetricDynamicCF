@@ -5,6 +5,7 @@ function sortedWeights=getNeighborsAllForEq(w, testParams, loopParams, data)
 %	@brief 	This function computes all weights for each (a,u) pair via predefined similarity equations.
 %           If you edit or use this code, please read and cite the following article.
 %           Experimental Interpretation of Adequate Weight-Metric Combination for Dynamic User-Based Collaborative Filtering,
+%			PeerJ Computer Science
 %	@prerq  testParams parameter must be passed.
 %	@input  w           : precalculated different equation weights for the same (a, u) pair. This is useful for overriding the weights.
 %           testParams  : ...
