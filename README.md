@@ -1,6 +1,6 @@
 # The Source Code of the Article "Experimental interpretation of adequate weight-metric combination for dynamic user-based collaborative filtering", *PeerJ Computer Science*
-|~name~|~value~|
-|--:|---|
+|name|value|
+|--:|:--|
 |short name|**AdequateWeightMetricDynamicCF**|
 |title|Experimental interpretation of adequate weight-metric combination for dynamic user-based collaborative filtering|
 |authors|[Savas Okyay](https://orcid.org/0000-0003-3955-6324) and [Sercan Aygun](https://orcid.org/0000-0002-4615-7914)|
@@ -13,7 +13,7 @@
 
 ## How to cite this article?
 Okyay S, Aygun S. 2021. Experimental interpretation of adequate weight-metric combination for dynamic user-based collaborative filtering. **PeerJ Comput. Sci. 7:e784 DOI 10.7717/peerj-cs.784**
-|~more_styles~||
+|more styles||
 |--:|:--|
 |IEEE|S. Okyay and S. Aygun, "Experimental interpretation of adequate weight-metric combination for dynamic user-based collaborative filtering," *PeerJ Computer Science*, 7:e784, 2021, doi: 10.7717/peerj-cs.784.|
 |APA6|Okyay, S., & Aygun, S. (2021). Experimental interpretation of adequate weight-metric combination for dynamic user-based collaborative filtering. *PeerJ Computer Science*, 7:e784. doi:10.7717/peerj-cs.784|
