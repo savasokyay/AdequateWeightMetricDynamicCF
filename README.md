@@ -1,25 +1,30 @@
-# The Source Code of the Article "Experimental Interpretation of Adequate Weight-Metric Combination for Dynamic User-Based Collaborative Filtering", PeerJ Computer Science
+# The Source Code of the Article "Experimental interpretation of adequate weight-metric combination for dynamic user-based collaborative filtering", *PeerJ Computer Science*
+|~name~|~value~|
+|--:|---|
+|short name|**AdequateWeightMetricDynamicCF**|
+|title|Experimental interpretation of adequate weight-metric combination for dynamic user-based collaborative filtering|
+|authors|[Savas Okyay](https://orcid.org/0000-0003-3955-6324) and [Sercan Aygun](https://orcid.org/0000-0002-4615-7914)|
+|doi|[10.7717/peerj-cs.784](https://doi.org/10.7717/peerj-cs.784)|
+|journal|[PeerJ Computer Science](https://peerj.com/computer-science/) (ISSN: 2376-5992)|
+|_submitted on_|May 17, 2021|
+|_accepted on_|October 26, 2021 (5 months and 9 days)|
+|_published on_|December 7, 2021 (6 months and 20 days since the first submission; 1 month and 11 days since the acceptance)|
+|CodeOcean|[10.24433/CO.8358536.v1](https://doi.org/10.24433/CO.8358536.v1) ([Version 1.0](https://codeocean.com/capsule/1427708/tree/v1))|
 
-Short name: **AdequateWeightMetricDynamicCF**
-[PeerJ Computer Science](https://peerj.com/computer-science/) (ISSN: 2376-5992)
-[CodeOcean (Version 1.0)](https://codeocean.com/capsule/1427708/tree/v1)
-
-|detail|date|
-|------|-----------------|
-|submitted|May 17, 2021|
-|accepted|October 26, 2021|
-|published|-|
-
-## Citation
-_Will be added after publishing._
+## How to cite this article?
+Okyay S, Aygun S. 2021. Experimental interpretation of adequate weight-metric combination for dynamic user-based collaborative filtering. **PeerJ Comput. Sci. 7:e784 DOI 10.7717/peerj-cs.784**
+|~more_styles~||
+|--:|:--|
+|IEEE|S. Okyay and S. Aygun, "Experimental interpretation of adequate weight-metric combination for dynamic user-based collaborative filtering," *PeerJ Computer Science*, 7:e784, 2021, doi: 10.7717/peerj-cs.784.|
+|APA6|Okyay, S., & Aygun, S. (2021). Experimental interpretation of adequate weight-metric combination for dynamic user-based collaborative filtering. *PeerJ Computer Science*, 7:e784. doi:10.7717/peerj-cs.784|
 
 ## General Info
-This repository contains the source code for the [PeerJ Computer Science](https://peerj.com/computer-science/) (ISSN: 2376-5992) article "_Experimental Interpretation of Adequate Weight-Metric Combination for Dynamic User-Based Collaborative Filtering_" by [_Savas Okyay_](https://orcid.org/0000-0003-3955-6324) and [_Sercan Aygun_](https://orcid.org/0000-0002-4615-7914). If you edit or use this collection of Matlab modules, please read and cite the article. Only academic usage for scientific purposes is allowed, but not the commercial.
+This repository contains the source code of the [PeerJ Computer Science](https://peerj.com/computer-science/) (ISSN: 2376-5992) article "_Experimental interpretation of adequate weight-metric combination for dynamic user-based collaborative filtering_" by [_Savas Okyay_](https://orcid.org/0000-0003-3955-6324) and [_Sercan Aygun_](https://orcid.org/0000-0002-4615-7914). If you edit or use this collection of Matlab modules, please read and cite the article. Only academic usage for scientific purposes is allowed, but not the commercial.
 
 Any dataset can be analyzed as long as it meets the requirement pre-defined user×item format. See ```mainAutoTest.m``` and ```_sample-DummyDataset.mat``` files for further details.
 
 |Author|_e_-mail|Affiliation|
-|------|------|-----------|
+|:----:|:----:|:----------|
 |Savas Okyay|osavas@ogu.edu.tr|Eskisehir Osmangazi University, Computer Engineering Dept., Eskisehir, 26040, Turkey|
 |Sercan Aygun|ayguns@yildiz.edu.tr|Yildiz Technical University, Computer Engineering Dept., Istanbul, 34220, Turkey|
 
