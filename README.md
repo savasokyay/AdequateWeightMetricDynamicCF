@@ -8,7 +8,7 @@
 |journal|[PeerJ Computer Science](https://peerj.com/computer-science/) (ISSN: 2376-5992)|
 |_submitted on_|May 17, 2021|
 |_accepted on_|October 26, 2021 (5 months and 9 days)|
-|_published on_|December 7, 2021 (6 months and 20 days since the first submission; 1 month and 11 days since the acceptance)|
+|_published on_|December 9, 2021 (6 months and 22 days since the first submission; 1 month and 13 days since the acceptance)|
 |CodeOcean|[10.24433/CO.8358536.v1](https://doi.org/10.24433/CO.8358536.v1) ([Version 1.0](https://codeocean.com/capsule/1427708/tree/v1))|
 
 ## How to cite this article?
